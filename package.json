@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq-queue-implementations",
+  "version": "1.0.0",
+  "description": "- RabbitMQ - Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aricionur/rabbitMQ-queue-implementations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aricionur/rabbitMQ-queue-implementations/issues"
+  },
+  "homepage": "https://github.com/aricionur/rabbitMQ-queue-implementations#readme"
+}

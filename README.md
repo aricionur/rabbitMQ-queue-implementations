@@ -1,2 +1,4 @@
-# rabbitMQ-queue-implementations
-# rabbitMQ-queue-implementations
+# TechStack
+
+- RabbitMQ
+- Javascript

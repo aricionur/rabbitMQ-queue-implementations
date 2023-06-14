@@ -27,7 +27,6 @@ amqp.connect('amqp://localhost', function (error, connection) {
         }, secs * 1000)
       },
       {
-        // noAck: true,
         noAck: false,
       },
     )
